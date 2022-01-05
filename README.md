@@ -46,7 +46,7 @@ The dataset which is used here, is collected from Kaggle website. Here is the li
 ## Model Visualization
 1. Univariate Analysis [using RedShift]
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Images/star1.png)
+![](star1.png)
 
 2. Univariate Analysis [using dec]
 
