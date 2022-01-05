@@ -15,7 +15,7 @@ The goal of this project is to make a perfect classification model according to 
 ## Dataset
 The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset : https://www.kaggle.com/dmvreddy91/usahousing. I have uploaded the same in [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Dataset) folder too, you can access that!
 
-## What Have I done
+## What Have we done
 1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/requirements.txt).
 2. Upload the dataset and the Jupyter Notebook file.
 3. Feature Description
