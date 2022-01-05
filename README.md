@@ -7,7 +7,7 @@ The telescope covers around one quarter of the earth's sky - therefore focuses o
 
 **For more information about this awesome project - please visit their website:** http://www.sdss.org/
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Images/star4.jpg)
+![](star4.jpg)
 
 ## Goal
 The goal of this project is to make a perfect classification model according to the data collected by the survey work.
@@ -50,15 +50,15 @@ The dataset which is used here, is collected from Kaggle website. Here is the li
 
 2. Univariate Analysis [using dec]
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Images/star2.png)
+![](star2.png)
 
 3. Multivariate Analysis
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Images/star3.png)
+![](star3.png)
 
 4. Feature Importance
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-23/Stars%2C%20Galaxies%20and%20Quasars%20Classification/Images/star4.png)
+![](star4.png)
 
 ## Model Comparison
 We have deployed five machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the accuracy of the models based on the accuracy score of each of the models. Now let's take a look at the scores of each models.
